@@ -1,0 +1,10 @@
+^C:\USERS\CLAUD\ONEDRIVE\DOCUMENTI\JUCE\OSCPACK_1_1_0\OSCPACK-BUILD\CMAKEFILES\09FBECA8908698C29756869739F56715\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0 -BC:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/oscpack-build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/oscpack-build/TestOscpack.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

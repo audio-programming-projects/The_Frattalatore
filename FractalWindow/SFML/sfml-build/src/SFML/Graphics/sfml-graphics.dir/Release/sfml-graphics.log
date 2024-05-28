@@ -1,0 +1,37 @@
+﻿  Building Custom Rule C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/src/SFML/Graphics/CMakeLists.txt
+  BlendMode.cpp
+  Color.cpp
+  Font.cpp
+  Glsl.cpp
+  GLCheck.cpp
+  GLExtensions.cpp
+  Image.cpp
+  ImageLoader.cpp
+  RenderStates.cpp
+  RenderTexture.cpp
+  RenderTarget.cpp
+  RenderWindow.cpp
+  Shader.cpp
+  Texture.cpp
+  TextureSaver.cpp
+  Transform.cpp
+  Transformable.cpp
+  View.cpp
+  Vertex.cpp
+  GLLoader.cpp
+  Generazione del codice in corso...
+  Compilazione in corso...
+  Shape.cpp
+  CircleShape.cpp
+  RectangleShape.cpp
+  ConvexShape.cpp
+  Sprite.cpp
+  Text.cpp
+  VertexArray.cpp
+  VertexBuffer.cpp
+  RenderTextureImpl.cpp
+  RenderTextureImplFBO.cpp
+  RenderTextureImplDefault.cpp
+  Generazione del codice in corso...
+     Creazione della libreria C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/sfml-build/lib/Release/sfml-graphics.lib e dell'oggetto C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/sfml-build/lib/Release/sfml-graphics.exp
+  sfml-graphics.vcxproj -> C:\Users\claud\Downloads\SFML-2.5.1-sources\SFML-2.5.1\sfml-build\lib\Release\sfml-graphics-2.dll

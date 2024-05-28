@@ -1,0 +1,30 @@
+﻿  Building Custom Rule C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/src/SFML/Window/CMakeLists.txt
+  Clipboard.cpp
+  Context.cpp
+  Cursor.cpp
+  GlContext.cpp
+  GlResource.cpp
+  Joystick.cpp
+  JoystickManager.cpp
+  Keyboard.cpp
+  Mouse.cpp
+  Touch.cpp
+  Sensor.cpp
+  SensorManager.cpp
+  VideoMode.cpp
+  Window.cpp
+  WindowImpl.cpp
+  CursorImpl.cpp
+  ClipboardImpl.cpp
+  WglContext.cpp
+  WglExtensions.cpp
+  InputImpl.cpp
+  Generazione del codice in corso...
+  Compilazione in corso...
+  JoystickImpl.cpp
+  SensorImpl.cpp
+  VideoModeImpl.cpp
+  WindowImplWin32.cpp
+  Generazione del codice in corso...
+     Creazione della libreria C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/sfml-build/lib/Debug/sfml-window-d.lib e dell'oggetto C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/sfml-build/lib/Debug/sfml-window-d.exp
+  sfml-window.vcxproj -> C:\Users\claud\Downloads\SFML-2.5.1-sources\SFML-2.5.1\sfml-build\lib\Debug\sfml-window-d-2.dll

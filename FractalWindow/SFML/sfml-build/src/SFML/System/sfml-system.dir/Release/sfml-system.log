@@ -1,0 +1,21 @@
+﻿  Building Custom Rule C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/src/SFML/System/CMakeLists.txt
+  Clock.cpp
+  Err.cpp
+  Lock.cpp
+  Mutex.cpp
+  Sleep.cpp
+  String.cpp
+  Thread.cpp
+  ThreadLocal.cpp
+  Time.cpp
+  FileInputStream.cpp
+  MemoryInputStream.cpp
+  ClockImpl.cpp
+C:\Users\claud\Downloads\SFML-2.5.1-sources\SFML-2.5.1\src\SFML\System\Win32\ClockImpl.cpp(46,35): warning C4996: 'GetVersion': è stato dichiarato deprecato
+  MutexImpl.cpp
+  SleepImpl.cpp
+  ThreadImpl.cpp
+  ThreadLocalImpl.cpp
+  Generazione del codice in corso...
+     Creazione della libreria C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/sfml-build/lib/Release/sfml-system.lib e dell'oggetto C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/sfml-build/lib/Release/sfml-system.exp
+  sfml-system.vcxproj -> C:\Users\claud\Downloads\SFML-2.5.1-sources\SFML-2.5.1\sfml-build\lib\Release\sfml-system-2.dll

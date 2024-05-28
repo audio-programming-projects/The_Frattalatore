@@ -1,0 +1,16 @@
+﻿  Building Custom Rule C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/src/SFML/Network/CMakeLists.txt
+  Ftp.cpp
+  Http.cpp
+  IpAddress.cpp
+C:\Users\claud\Downloads\SFML-2.5.1-sources\SFML-2.5.1\src\SFML\Network\IpAddress.cpp(92,12): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\claud\Downloads\SFML-2.5.1-sources\SFML-2.5.1\src\SFML\Network\IpAddress.cpp(184,21): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Packet.cpp
+  Socket.cpp
+  SocketSelector.cpp
+  TcpListener.cpp
+  TcpSocket.cpp
+  UdpSocket.cpp
+  SocketImpl.cpp
+  Generazione del codice in corso...
+     Creazione della libreria C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/sfml-build/lib/Release/sfml-network.lib e dell'oggetto C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/sfml-build/lib/Release/sfml-network.exp
+  sfml-network.vcxproj -> C:\Users\claud\Downloads\SFML-2.5.1-sources\SFML-2.5.1\sfml-build\lib\Release\sfml-network-2.dll

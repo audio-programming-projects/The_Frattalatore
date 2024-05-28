@@ -1,0 +1,3 @@
+C:\Users\claud\OneDrive\Documenti\JUCE\exercises\juce-frattalatore-capr\FractalWindow\x64\Debug\FractalWindow.exe
+C:\Users\andre\Desktop\HW2\juce-frattalatore-capr\FractalWindow\x64\Debug\FractalWindow.exe
+C:\Users\claud\OneDrive\Desktop\Prova clone cmls\group9-hw-JUCE-CAPR\FractalWindow\x64\Debug\FractalWindow.exe

@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/CMakeLists.txt
+  OscUnitTests.cpp
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\tests\OscUnitTests.cpp(109,32): warning C4311: 'cast di tipo': troncamento puntatore da 'char *' a 'long'
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\tests\OscUnitTests.cpp(109,32): warning C4302: 'cast di tipo': troncamento da 'char *' a 'long'
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\tests\OscUnitTests.cpp(109,44): warning C4312: 'cast di tipo': conversione da 'long' a 'char *', di dimensioni maggiori
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\tests\OscUnitTests.cpp(150,21): warning C4456: se si dichiara 'n', la dichiarazione locale precedente verrà nascosta
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\tests\OscUnitTests.cpp(142,13): message : vedere la dichiarazione di 'n'
+  OscUnitTests.vcxproj -> C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\oscpack-build\Debug\OscUnitTests.exe

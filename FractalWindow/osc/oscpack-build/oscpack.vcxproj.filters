@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\IpEndpointName.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\win32\NetworkingUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\win32\UdpSocket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscTypes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscReceivedElements.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscPrintReceivedElements.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscOutboundPacketStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\IpEndpointName.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\NetworkingUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\UdpSocket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\PacketListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\TimerListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscHostEndianness.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscPacketListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\MessageMappingOscPacketListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscReceivedElements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscPrintReceivedElements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscOutboundPacketStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F239F991-1C6A-3AEC-BDBD-592F34F520E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4CEB54D6-97B8-3ABF-872D-8FD8F4D8982B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

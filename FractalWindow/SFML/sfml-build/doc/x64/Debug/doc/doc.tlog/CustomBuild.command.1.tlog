@@ -1,0 +1,28 @@
+^C:\USERS\CLAUD\DOWNLOADS\SFML-2.5.1-SOURCES\SFML-2.5.1\SFML-BUILD\CMAKEFILES\D7AA2A2845C131A480185D24EDF47A9E\DOC.RULE
+setlocal
+cd C:\Users\claud\Downloads\SFML-2.5.1-sources\SFML-2.5.1
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append "Building API Documentation..."
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\doxygen\bin\doxygen.exe" C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/sfml-build/doc/doxyfile
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo Done.
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CLAUD\DOWNLOADS\SFML-2.5.1-SOURCES\SFML-2.5.1\DOC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1 -BC:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/sfml-build --check-stamp-file C:/Users/claud/Downloads/SFML-2.5.1-sources/SFML-2.5.1/sfml-build/doc/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

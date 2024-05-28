@@ -1,0 +1,25 @@
+﻿  Building Custom Rule C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/CMakeLists.txt
+  IpEndpointName.cpp
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\IpEndpointName.cpp(53,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\IpEndpointName.cpp(55,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\IpEndpointName.cpp(68,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\IpEndpointName.cpp(70,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\IpEndpointName.cpp(78,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\IpEndpointName.cpp(80,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  NetworkingUtils.cpp
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\win32\NetworkingUtils.cpp(87,25): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  UdpSocket.cpp
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\win32\UdpSocket.cpp(438,1): warning C4456: se si dichiara 'currentTimeMs', la dichiarazione locale precedente verrà nascosta
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\ip\win32\UdpSocket.cpp(423,10): message : vedere la dichiarazione di 'currentTimeMs'
+  OscTypes.cpp
+  OscReceivedElements.cpp
+  OscPrintReceivedElements.cpp
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscPrintReceivedElements.cpp(129,47): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscPrintReceivedElements.cpp(228,32): warning C4457: se si dichiara 'b', il parametro della funzione verrà nascosto
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscPrintReceivedElements.cpp(210,68): message : vedere la dichiarazione di 'b'
+  OscOutboundPacketStream.cpp
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscOutboundPacketStream.cpp(363,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscOutboundPacketStream.cpp(605,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\osc\OscOutboundPacketStream.cpp(625,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generazione del codice in corso...
+  oscpack.vcxproj -> C:\Users\claud\OneDrive\Documenti\JUCE\oscpack_1_1_0\oscpack-build\Debug\oscpack.lib

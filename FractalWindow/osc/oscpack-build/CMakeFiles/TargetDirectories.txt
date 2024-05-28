@@ -1,0 +1,9 @@
+C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/oscpack-build/CMakeFiles/oscpack.dir
+C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/oscpack-build/CMakeFiles/OscUnitTests.dir
+C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/oscpack-build/CMakeFiles/OscSendTests.dir
+C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/oscpack-build/CMakeFiles/OscReceiveTest.dir
+C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/oscpack-build/CMakeFiles/OscDump.dir
+C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/oscpack-build/CMakeFiles/SimpleReceive.dir
+C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/oscpack-build/CMakeFiles/SimpleSend.dir
+C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/oscpack-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/claud/OneDrive/Documenti/JUCE/oscpack_1_1_0/oscpack-build/CMakeFiles/ZERO_CHECK.dir
